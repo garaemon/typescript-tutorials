@@ -1,0 +1,14 @@
+{
+  "name": "02_type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "compile": "tsc --outFile dist/type.js src/type.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
