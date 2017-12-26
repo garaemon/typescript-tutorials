@@ -1,0 +1,14 @@
+{
+  "name": "08_external_module_amd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc src/main.ts --module amd --outDir dist"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
