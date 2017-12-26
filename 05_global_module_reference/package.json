@@ -1,0 +1,14 @@
+{
+  "name": "05_global_module_reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --outFile dist/main.js src/main.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
