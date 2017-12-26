@@ -10,5 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.2",
+    "gulp-typescript": "^3.2.3",
+    "n": "^2.1.8"
   }
 }

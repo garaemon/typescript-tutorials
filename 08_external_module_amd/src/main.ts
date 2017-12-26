@@ -6,3 +6,4 @@ import {MyModule} from './my-module';
 m.MyModule.helloWorld();
 m2.MyModule.helloWorld();
 MyModule.helloWorld();
+
